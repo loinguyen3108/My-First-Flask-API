@@ -20,5 +20,3 @@ WORKDIR /app
 RUN chmod +x /docker-entrypoint.sh
 
 ENTRYPOINT ["/docker-entrypoint.sh"]
-
-CMD [ "/venv/bin/python", "app.py" ]
