@@ -1,11 +1,11 @@
-# Home-Test-Thuoc-Si
+# my first flask api
 
 ## Install App
 ```
 git clone git@github.com:loinguyen3108/Home-Test-Thuoc-Si.git
 ```
 
-Sau khi môi trường bên project Dev-Stack-Thuoc-Si chạy thành công thì có thể test được các API.
+Sau khi môi trường bên project Dev-Stack-Flask chạy thành công thì có thể test được các API.
 
 - Create new customer
 
