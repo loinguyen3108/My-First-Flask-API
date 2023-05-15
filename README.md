@@ -2,7 +2,7 @@
 
 ## Install App
 ```
-git clone git@github.com:loinguyen3108/Home-Test-Thuoc-Si.git
+git clone git@github.com:loinguyen3108/My-First-Flask-API.git
 ```
 
 Sau khi môi trường bên project Dev-Stack-Flask chạy thành công thì có thể test được các API.
@@ -24,7 +24,7 @@ Request Data: {
 Header: {}
 ```
 Response:
-![alt text](https://github.com/loinguyen3108/Home-Test-Thuoc-Si/blob/main/images/Sign_Up_PM.png?raw=true)
+![alt text](https://github.com/loinguyen3108/My-First-Flask-API/blob/main/images/Sign_Up_PM.png?raw=true)
 
 - Login
 
@@ -39,7 +39,7 @@ Request Data: {
 Header: {}
 ```
 Response:
-![alt text](https://github.com/loinguyen3108/Home-Test-Thuoc-Si/blob/main/images/Login_PM.png?raw=true)
+![alt text](https://github.com/loinguyen3108/My-First-Flask-API/blob/main/images/Login_PM.png?raw=true)
 
 - Read customer's information
 
@@ -51,7 +51,7 @@ Request Data: {}
 Header: {"Authorization": "<token được lấy từ login>"}
 ```
 Response:
-![alt text](https://github.com/loinguyen3108/Home-Test-Thuoc-Si/blob/main/images/Get_User_PM.png?raw=true)
+![alt text](https://github.com/loinguyen3108/My-First-Flask-API/blob/main/images/Get_User_PM.png?raw=true)
 
 - Update customer
 
@@ -68,7 +68,7 @@ Request Data: {
 Header: {"Authorization": "<token được lấy từ login>"}
 ```
 Reponse:
-![alt text](https://github.com/loinguyen3108/Home-Test-Thuoc-Si/blob/main/images/Update_User.png?raw=true)
+![alt text](https://github.com/loinguyen3108/My-First-Flask-API/blob/main/images/Update_User.png?raw=true)
 
 - Delete customer
 
@@ -80,7 +80,7 @@ Request Data: {}
 Header: {"Authorization": "<token được lấy từ login>"}
 ```
 Reponse:
-![alt text](https://github.com/loinguyen3108/Home-Test-Thuoc-Si/blob/main/images/Delete_User.png?raw=true)
+![alt text](https://github.com/loinguyen3108/My-First-Flask-API/blob/main/images/Delete_User.png?raw=true)
 
 - Get All User
 
@@ -92,4 +92,4 @@ Request Data: {}
 Header: {"Authorization": "<token được lấy từ login>"}
 ```
 Reponse:
-![alt text](https://github.com/loinguyen3108/Home-Test-Thuoc-Si/blob/main/images/Get_All_User.png?raw=true)
+![alt text](https://github.com/loinguyen3108/My-First-Flask-API/blob/main/images/Get_All_User.png?raw=true)
